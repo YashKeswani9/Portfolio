@@ -16,13 +16,13 @@ body {
   position: relative;
 }
 
-h1, h2, h3 {
-  font-family: 'Caveat', cursive;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
-h4, h5, h6 {
-  font-family: 'Patrick Hand', cursive;
-}
+
 
 @layer components {
   .btn {
@@ -42,7 +42,9 @@ h4, h5, h6 {
   }
   
   .card {
-    @apply bg-dark-card/80 backdrop-blur-sm rounded-xl shadow-md overflow-hidden transition-all duration-300 border border-dark-border;
+    /* @apply bg-dark-card/80 backdrop-blur-sm rounded-xl shadow-md overflow-hidden transition-all duration-300 border border-dark-border; */
+    @apply bg-dark-card bg-opacity-80 backdrop-blur-sm rounded-xl shadow-md overflow-hidden transition-all duration-300 border border-dark-border;
+    
   }
   
   .card-hover {

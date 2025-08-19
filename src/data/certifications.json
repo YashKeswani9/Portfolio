@@ -1,0 +1,62 @@
+[
+    {
+      "id": "aws-ccp",
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "issued": "2025-08",
+      "badgeUrl": "/images/Badges/AWSCCP.png",
+      "verifyUrl": "https://www.credly.com/badges/a37a27bf-2f40-44aa-97b3-4957441f85c8/public_url"
+    },
+    {
+        "id": "ibm-ds",
+        "name": "IBM Data Science Professional Certificate",
+        "issuer": "Coursera",
+        "issued": "2022-12",
+        "badgeUrl": "/images/Badges/IBMDS.png",
+        "verifyUrl": "https://www.credly.com/badges/19fdb539-cd81-4157-9a40-9b37d2ce191a/public_url"
+    },
+    {
+        "id": "google-da",
+        "name": "Google Data Analytics Professional Certificate",
+        "issuer": "Coursera",
+        "issued": "2022-01",
+        "badgeUrl": "/images/Badges/GDA.png",
+        "verifyUrl": "https://www.credly.com/badges/6b035c99-7e8c-4a7c-b76e-f22955a7b80b/public_url"
+    },
+    {
+        "id": "sf-consultant",
+        "name": "Salesforce Certified CRM Analytics and Einstein Discovery Consultant",
+        "issuer": "Salesforce",
+        "issued": "2022-08",
+        "badgeUrl": "/images/badges/SFEC.png"
+    },
+    {
+        "id": "sf-pd",
+        "name": "Salesforce Certified Platform Developer",
+        "issuer": "Salesforce",
+        "issued": "2022-03",
+        "badgeUrl": "/images/badges/SFPD.png"
+    },
+    {
+        "id": "sf-builder",
+        "name": "Salesforce Certified Platform App Builder",
+        "issuer": "Salesforce",
+        "issued": "2022-02",
+        "badgeUrl": "/images/badges/SFPAB.png"
+    },
+    {
+      "id": "sf-admin",
+      "name": "Salesforce Certified Platform Admiminstrator",
+      "issuer": "Salesforce",
+      "issued": "2021-11",
+      "badgeUrl": "/images/badges/SFPA.png"
+    },
+    {
+        "id": "sf-cpq",
+        "name": "Salesforce Certified CPQ Administrator",
+        "issuer": "Salesforce",
+        "issued": "2021-09",
+        "badgeUrl": "/images/badges/SFCPQ.png"
+    }
+  ]
+  

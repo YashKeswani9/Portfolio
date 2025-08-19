@@ -1,24 +1,28 @@
 {
   "general": {
-    "siteName": "Neel Patel",
-    "jobTitle": "Data Scientist"
+    "siteName": "Yash Keswani",
+    "jobTitle": "Full Stack Engineer | Full Stack AI Engineer"
   },
+  "sections":["home", "about", "projects", "skills", "experience", "certifications", "education"],
   "navigation": {
     "links": [
       { "name": "Home", "id": "home" },
       { "name": "About Me", "id": "about" },
-      { "name": "Projects", "id": "projects" }
+      { "name": "Experience", "id": "experience" },
+      { "name": "Skills", "id": "skills" },
+      { "name": "Projects", "id": "projects" },
+      { "name": "Certifications", "id": "certifications" },
+      { "name": "Education", "id": "education" }
     ]
   },
   "social": {
-    "github": "https://github.com/neel6762",
-    "linkedin": "https://www.linkedin.com/in/neel6762/",
-    "twitter": "https://x.com/neel6762",
-    "email": "patelneel504@gmail.com"
+    "github": "https://github.com/YashKeswani9",
+    "linkedin": "https://www.linkedin.com/in/yashkeswani09/",
+    "email": "ykeswani09@gmail.com"
   },
   "home": {
     "hero": {
-      "greeting": "Hello, I'm",
+      "greeting": "Hey, I'm",
       "heading": "a Data Scientist! ",
       "description": "Transforming business problems using AI solutions"
     },
@@ -29,38 +33,14 @@
     }
   },
   "about": {
-    "heading": "Data Scientist | Problem Solver | Lifelong Learner",
-    "description": "I'm a Data Scientist with a passion for uncovering insights and building intelligent systems that drive real impact. Based in Ottawa, I specialize in machine learning, natural language processing, and currently, I’m diving deep into the mechanics of Large Language Models—building one from scratch to truly understand how they work. My experience blends practical analytics with a hands-on approach to model development, including crafting tools that streamline processes and enhance decision-making. Whether it's developing robust ML pipelines or experimenting with cutting-edge AI.",
-    "sections": [],
-    "professionalJourney": {
-      "title": "",
-      "timeline": [
-        {
-          "year": "November(2023) - Current",
-          "title": "Senior Data Scientist",
-          "company": "Canada Revenue Agency",
-          "description": "Leveraged machine learning, NLP, and graph analytics to develop AI-driven audit tools, optimize data integrity, and enhance fraud detection."
-        },
-        {
-          "year": "May (2023) - November(2023)",
-          "title": "Data Scientist",
-          "company": "Canada Revenue Agency",
-          "description": "Developed and applied machine learning modeling, and performed social network analysis to identify non-compliance in tax data."
-        },
-        {
-          "year": "March (2021) - May (2023)",
-          "title": "MSc in Computer Science",
-          "company": "University of Ottawa",
-          "description": "Focused on machine learning and deep learning, developing expertise in AI research and data-driven problem-solving."
-        }
-      ]
-    }
+    "heading": "Full Stack Engineer passionate about building intelligent, scalable applications that solve real-world problems.",
+    "description": "As a Full Stack AI Engineer, I design and build machine learning models and AI features, develop full stack applications, and integrate AI capabilities into scalable, user-friendly software. My solid academic background in AI, combined with practical full stack engineering experience, drives my passion for delivering innovative, real-world solutions. I am committed to leveraging technology to solve complex problems and create meaningful impact.",
+    "sections": []
+    
   },
+  
   "projects": {
     "heading": "My Projects",
-    "description": "Explore my portfolio of projects showcasing my skills in AI, and graph analytics."
-  },
-  "footer": {
-    "copyright": "© 2025 Neel Patel"
+    "description": "Innovative solutions that demonstrate my technical expertise and passion for building impactful applications"
   }
 } 

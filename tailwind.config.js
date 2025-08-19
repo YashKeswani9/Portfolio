@@ -5,6 +5,26 @@ module.exports = {
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
+  safelist: [
+    'text-blue-500',
+    'text-green-500', 
+    'text-red-500',
+    'text-amber-600',
+    'text-cyan-600',
+    'text-sky-600',
+    'text-green-700',
+    'text-indigo-600',
+    'text-cyan-700',
+    'text-cyan-500',
+    'text-teal-600',
+    'text-gray-900',
+    'text-emerald-700',
+    'text-yellow-600',
+    'text-amber-400',
+    'text-emerald-600',
+    'text-violet-600',
+    'text-lime-600'
+  ],
   darkMode: 'class',
   theme: {
     extend: {

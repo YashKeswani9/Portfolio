@@ -1,0 +1,25 @@
+[
+    {
+      "id": "1",
+      "degree": "Master of Computer Science & Concentration in Applied Artificial Intelligence",
+      "institution": "University of Ottawa",
+      "location": "Ottawa, CA",
+      "duration": "Sept 2023 - Apr 2025",
+      "grade": {
+        "value": "9.7/10",
+        "type": "gpa"
+      }
+    },
+    {
+      "id": "2",
+      "degree": "Bachelor of Technology in Computer Science & Engineering",
+      "institution": "SRM Institue of Science and Technology",
+      "location": "Chennai, IN",
+      "duration": "Aug 2016 - May 2020",
+      "grade": {
+        "value": "82.6",
+        "type": "percentage"
+      }
+    }
+  ]
+  

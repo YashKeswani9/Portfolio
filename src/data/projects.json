@@ -1,10 +1,31 @@
 [
   {
     "id": "1",
-    "title": "LLM-Powered Resume Analyzer",
-    "description": "A Streamlit application that analyzes resumes using LLMs and provides job suggestions based on the resume.",
-    "tags": ["Streamlit", "LLMs", "Python"],
-    "githubLink": "https://github.com/"
+    "title": "Condense.ai",
+    "description": "AI-powered SaaS platform utilizing LLMs to summarize PDFs and deliver visually engaging, reel-like summaries for users.",
+    "tags": ["LLMs", "LangChain", "TypeScript", "Next.js", "Tailwind CSS", "Stripe"],
+    "githubLink": "https://github.com/YashKeswani9/CondenseAi-saas-app",
+    "liveUrl": "https://condense-ai.vercel.app"
+  },
+  {
+    "id": "2",
+    "title": "HealthBuddy: Bilingual RAG Healthcare Chatbot",
+    "description": "Bilingual healthcare chatbot leveraging Rasa framework with RAG for medical assistance and consultations in English as well as French.",
+    "tags": ["Rasa", "RAG", "NLP", "ML", "Python"],
+    "githubLink": "https://github.com/YashKeswani9/Bilingual_HealthBuddy"
+  },
+  {
+    "id": "3",
+    "title": "Duplicate Bug Report Detection using BERT & ELECTRA",
+    "description": "NLP pipeline using BERT & ELECTRA transformers for duplicate bug report detection with advanced preprocessing & model fine-tuning.",
+    "tags": ["HuggingFace Transformers", "PyTorch", "NLP", "Python"],
+    "githubLink": "https://github.com/YashKeswani9/Duplicate-Bug-Report-Detection-Using-BERT-and-ELECTRA"
+  },
+  {
+    "id": "4",
+    "title": "Android Malware Detection via Heuristic Feature Selection",
+    "description": "Machine learning-based Android malware detection system using heuristic feature selection techniques and advanced classification algorithms to identify malicious applications with optimized feature engineering.",
+    "tags": ["ML", "Feature Engineering", "sckit-learn", "Python"],
+    "githubLink": "https://github.com/YashKeswani9/Android-Malware-Detection-via-Heuristic-Feature-Selection"
   }
-  
 ]
