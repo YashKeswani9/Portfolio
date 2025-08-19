@@ -1,4 +1,4 @@
-# Neel Patel's Portfolio Website
+# Yash Keswani's Portfolio Website
 
 A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS. Features a beautiful dark mode, smooth animations, and optimized performance.
 
