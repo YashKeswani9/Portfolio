@@ -116,7 +116,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 For any questions or feedback, please reach out through:
-- Email: [patelneel504@gmail.com](mailto:patelneel504@gmail.com)
-- GitHub: [neel6762](https://github.com/neel6762)
-- LinkedIn: [neel6762](https://www.linkedin.com/in/neel6762/)
-- Twitter: [neel6762](https://x.com/neel6762) 
+- Email: [ykeswani09@gmail.com](mailto:patelneel504@gmail.com)
