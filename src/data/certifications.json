@@ -28,35 +28,35 @@
         "name": "Salesforce Certified CRM Analytics and Einstein Discovery Consultant",
         "issuer": "Salesforce",
         "issued": "2022-08",
-        "badgeUrl": "/images/badges/SFEC.png"
+        "badgeUrl": "/images/Badges/SFEC.png"
     },
     {
         "id": "sf-pd",
         "name": "Salesforce Certified Platform Developer",
         "issuer": "Salesforce",
         "issued": "2022-03",
-        "badgeUrl": "/images/badges/SFPD.png"
+        "badgeUrl": "/images/Badges/SFPD.png"
     },
     {
         "id": "sf-builder",
         "name": "Salesforce Certified Platform App Builder",
         "issuer": "Salesforce",
         "issued": "2022-02",
-        "badgeUrl": "/images/badges/SFPAB.png"
+        "badgeUrl": "/images/Badges/SFPAB.png"
     },
     {
       "id": "sf-admin",
       "name": "Salesforce Certified Platform Admiminstrator",
       "issuer": "Salesforce",
       "issued": "2021-11",
-      "badgeUrl": "/images/badges/SFPA.png"
+      "badgeUrl": "/images/Badges/SFPA.png"
     },
     {
         "id": "sf-cpq",
         "name": "Salesforce Certified CPQ Administrator",
         "issuer": "Salesforce",
         "issued": "2021-09",
-        "badgeUrl": "/images/badges/SFCPQ.png"
+        "badgeUrl": "/images/Badges/SFCPQ.png"
     }
   ]
   
