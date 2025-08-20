@@ -73,13 +73,14 @@ export default function Certifications() {
             <motion.li key={c.id} variants={item} className="flex flex-col items-center text-center group">
               {/* Badge container with dark theme */}
               <div className="relative h-24 w-24 md:h-28 md:w-28 lg:h-32 lg:w-32 rounded-lg bg-[#0d1117] border border-[#23272e] transition-all duration-300 hover:scale-105 hover:border-indigo-400/50 p-2">
-                <Image
+              <Image
                   src={c.badgeUrl}
                   alt={`${c.name} badge`}
                   fill
                   sizes="(min-width:1024px) 128px, (min-width:768px) 112px, 96px"
                   className="object-contain rounded-md"
                   priority={false}
+                  unoptimized  // Add this line
                 />
               </div>
 
