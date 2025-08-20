@@ -74,14 +74,15 @@ export default function Certifications() {
               {/* Badge container with dark theme */}
               <div className="relative h-24 w-24 md:h-28 md:w-28 lg:h-32 lg:w-32 rounded-lg bg-[#0d1117] border border-[#23272e] transition-all duration-300 hover:scale-105 hover:border-indigo-400/50 p-2">
               <Image
-                  src={c.badgeUrl}
-                  alt={`${c.name} badge`}
-                  fill
-                  sizes="(min-width:1024px) 128px, (min-width:768px) 112px, 96px"
-                  className="object-contain rounded-md"
-                  priority={false}
-                  unoptimized  // Add this line
-                />
+                src={c.badgeUrl}
+                alt={`${c.name} badge`}
+                width={96}
+                height={96}
+                sizes="(min-width:1024px) 128px, (min-width:768px) 112px, 96px"
+                className="object-contain rounded-md w-full h-full"
+                priority={false}
+                unoptimized
+              />
               </div>
 
               {/* Title + meta */}
