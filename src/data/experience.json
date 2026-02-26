@@ -1,7 +1,17 @@
 [
   {
     "id": "1",
-    "position": "Junior Software Developer Co-op",
+    "position": "Software Engineer",
+    "organization": "Municipal Property Assessment Corporation (MPAC)",
+    "tenure": "Dec 2025 - Present",
+    "type": "work",
+    "responsibilities": [
+      "Loading..."
+    ]
+  },
+  {
+    "id": "2",
+    "position": "Software Engineer Co-op",
     "organization": "Municipal Property Assessment Corporation (MPAC)",
     "tenure": "May 2024 - Dec 2024",
     "type": "work",
@@ -12,7 +22,7 @@
     ]
   },
   {
-    "id": "2",
+    "id": "3",
     "position": "Full Stack Engineer",
     "organization": "Accenture",
     "tenure": "Jan 2021 - Jul 2023",
@@ -25,7 +35,7 @@
     ]
   },
   {
-    "id": "3",
+    "id": "4",
     "position": "Web Developer Intern",
     "organization": "RapidOps Solutions",
     "tenure": "May 2018 - Jun 2018",

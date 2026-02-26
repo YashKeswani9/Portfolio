@@ -1,78 +1,244 @@
 {
-    "heading": "Skills",
-    "description": "Technical expertise spanning full-stack development, AI/ML technologies, and cloud infrastructure",
-    "categories": [
+  "heading": "Skills",
+  "description": "Technical expertise spanning full-stack development, AI/ML technologies, and cloud infrastructure",
+  "categories": [
+    {
+      "title": "Programming Languages",
+      "items": [
         {
-            "title": "Programming Languages",
-            "items": [
-              { "name": "TypeScript", "iconKey": "SiTypescript" },
-              { "name": "JavaScript", "iconKey": "SiJavascript" },
-              { "name": "Python", "iconKey": "SiPython" },
-              { "name": "Java", "iconKey": "FaJava" },
-              { "name": "C++", "iconKey": "SiCplusplus" },
-              { "name": "R", "iconKey": "SiR" },
-              { "name": "Apex", "iconKey": "FaSalesforce" }
-            ]
-          },
-          {
-            "title": "Web Technologies",
-            "items": [
-              { "name": "Node.js", "iconKey": "FaNodeJs" },
-              { "name": "Express.js", "iconKey": "SiExpress" },
-              { "name": "React.js", "iconKey": "FaReact" },
-              { "name": "Next.js", "iconKey": "SiNextdotjs" },
-              { "name": "Tailwind CSS", "iconKey": "SiTailwindcss" },
-              { "name": "FastAPI", "iconKey": "SiFastapi" },
-              { "name": "shadcn/ui", "iconKey": "FaShapes" },
-              { "name": "Playwright", "iconKey": "FaTheaterMasks" }
-            ]
-          },
-          {
-            "title": "AI Application Development",
-            "items": [
-            { "name": "LLMs", "iconKey": "FaBrain" },
-              { "name": "GenAI", "iconKey": "FaMagic" },
-              { "name": "RAG", "iconKey": "FaCubes" },
-              { "name": "LangChain", "iconKey": "FaLink" },
-              { "name": "LangGraph", "iconKey": "FaProjectDiagram" }
-            ]
-          },
-          {
-            "title": "AI & ML Libraries",
-            "items": [
-              { "name": "PyTorch", "iconKey": "SiPytorch" },
-              { "name": "TensorFlow", "iconKey": "SiTensorflow" },
-              { "name": "HuggingFace", "iconKey": "SiHuggingface" },
-              { "name": "scikit-learn", "iconKey": "SiScikitlearn" },
-              { "name": "spaCy", "iconKey": "FaCode" },
-              { "name": "NLTK", "iconKey": "FaBook" },
-              { "name": "NumPy", "iconKey": "SiNumpy" },
-              { "name": "pandas", "iconKey": "SiPandas" }
-            ]
-          },
-          {
-            "title": "Database Technologies",
-            "items": [
-              { "name": "SQL", "iconKey": "FaDatabase" },
-              { "name": "MySQL", "iconKey": "SiMysql" },
-              { "name": "PostgreSQL", "iconKey": "SiPostgresql" },
-              { "name": "MongoDB", "iconKey": "SiMongodb" },
-              { "name": "ChromaDB", "iconKey": "FaLayerGroup" }
-            ]
-          },
-      {
-        "title": "Cloud & DevOps Platforms",
-        "items": [
-          { "name": "AWS", "iconKey": "FaAws" },
-          { "name": "Docker", "iconKey": "FaDocker" },
-          { "name": "Jenkins", "iconKey": "FaWrench" },
-          { "name": "Git", "iconKey": "FaGitAlt" },
-          { "name": "GitHub", "iconKey": "FaGithub" },
-          { "name": "Bitbucket", "iconKey": "FaBitbucket" },
-          { "name": "GitLab", "iconKey": "FaGitlab" },
-          { "name": "Salesforce", "iconKey": "FaSalesforce" }
-        ]
-      }
-    ]
-  }
-  
+          "name": "Python",
+          "iconKey": "SiPython"
+        },
+        {
+          "name": "Java",
+          "iconKey": "FaJava"
+        },
+        {
+          "name": "TypeScript",
+          "iconKey": "SiTypescript"
+        },
+        {
+          "name": "JavaScript",
+          "iconKey": "SiJavascript"
+        },
+        {
+          "name": "R",
+          "iconKey": "SiR"
+        }
+      ]
+    },
+    {
+      "title": "Full-Stack Development",
+      "items": [
+        {
+          "name": "Spring Boot",
+          "iconKey": "SiSpringboot"
+        },
+        {
+          "name": "Node.js",
+          "iconKey": "FaNodeJs"
+        },
+        {
+          "name": "Express.js",
+          "iconKey": "SiExpress"
+        },
+        {
+          "name": "React.js",
+          "iconKey": "FaReact"
+        },
+        {
+          "name": "FastAPI",
+          "iconKey": "SiFastapi"
+        },
+        {
+          "name": "Next.js",
+          "iconKey": "SiNextdotjs"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconKey": "SiTailwindcss"
+        },
+        {
+          "name": "shadcn/ui",
+          "iconKey": "FaShapes"
+        },
+        {
+          "name": "Playwright",
+          "iconKey": "FaTheaterMasks"
+        }
+      ]
+    },
+    {
+      "title": "AI Application Development",
+      "items": [
+        {
+          "name": "LLMs",
+          "iconKey": "FaBrain"
+        },
+        {
+          "name": "GenAI",
+          "iconKey": "FaMagic"
+        },
+        {
+          "name": "RAG",
+          "iconKey": "FaCubes"
+        },
+        {
+          "name": "LangChain",
+          "iconKey": "FaLink"
+        }
+      ]
+    },
+    {
+      "title": "AI & ML Libraries",
+      "items": [
+        {
+          "name": "PyTorch",
+          "iconKey": "SiPytorch"
+        },
+        {
+          "name": "TensorFlow",
+          "iconKey": "SiTensorflow"
+        },
+        {
+          "name": "HuggingFace",
+          "iconKey": "SiHuggingface"
+        },
+        {
+          "name": "scikit-learn",
+          "iconKey": "SiScikitlearn"
+        },
+        {
+          "name": "spaCy",
+          "iconKey": "FaCode"
+        },
+        {
+          "name": "NLTK",
+          "iconKey": "FaBook"
+        },
+        {
+          "name": "NumPy",
+          "iconKey": "SiNumpy"
+        },
+        {
+          "name": "pandas",
+          "iconKey": "SiPandas"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "items": [
+        {
+          "name": "SQL",
+          "iconKey": "FaDatabase"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconKey": "SiPostgresql"
+        },
+        {
+          "name": "MongoDB",
+          "iconKey": "SiMongodb"
+        },
+        {
+          "name": "ChromaDB",
+          "iconKey": "FaLayerGroup"
+        }
+      ]
+    },
+    {
+      "title": "Cloud & Infrastructure",
+      "items": [
+        {
+          "name": "AWS",
+          "iconKey": "FaAws"
+        },
+        {
+          "name": "Azure",
+          "iconKey": "FaMicrosoft"
+        },
+        {
+          "name": "Terraform",
+          "iconKey": "SiTerraform"
+        },
+        {
+          "name": "Docker",
+          "iconKey": "FaDocker"
+        },
+        {
+          "name": "Kubernetes",
+          "iconKey": "SiKubernetes"
+        }
+      ]
+    },
+    {
+      "title": "DevOps & Version Control",
+      "items": [
+
+        {
+          "name": "Git",
+          "iconKey": "FaGitAlt"
+        },
+        {
+          "name": "Jenkins",
+          "iconKey": "FaWrench"
+        },
+        {
+          "name": "GitLab CI/CD",
+          "iconKey": "FaGitlab"
+        },
+        {
+          "name": "GitHub Actions",
+          "iconKey": "SiGithubactions"
+        },
+        {
+          "name": "Prometheus",
+          "iconKey": "SiPrometheus"
+        },
+        {
+          "name": "Grafana",
+          "iconKey": "SiGrafana"
+        }
+      ]
+    },
+    {
+      "title": "Data Engineering",
+      "items": [
+        {
+          "name": "Apache Airflow",
+          "iconKey": "SiApacheairflow"
+        },
+        {
+          "name": "Apache Spark",
+          "iconKey": "SiApachespark"
+        },
+        {
+          "name": "Apache Kafka",
+          "iconKey": "SiApachekafka"
+        },
+        {
+          "name": "Databricks",
+          "iconKey": "SiDatabricks"
+        }
+      ]
+    },
+    {
+      "title": "AI-assisted development",
+      "items": [
+        {
+          "name": "Claude Code",
+          "iconKey": "SiClaude"
+        },
+        {
+          "name": "Cursor AI",
+          "iconKey": "FaRobot"
+        },
+        {
+          "name": "MCP Server",
+          "iconKey": "FaPlug"
+        }
+      ]
+    }
+  ]
+}

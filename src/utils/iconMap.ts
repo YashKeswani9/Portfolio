@@ -21,7 +21,18 @@ import {
   SiPostgresql,
   SiMongodb,        // shadcn/ui
   SiFastapi,
-  SiScikitlearn
+  SiScikitlearn,
+  SiApacheairflow,
+  SiApachespark,
+  SiKubernetes,
+  SiClaude,
+  SiTerraform,
+  SiSpringboot,
+  SiApachekafka,
+  SiDatabricks,
+  SiPrometheus,
+  SiGrafana,
+  SiGithubactions
 } from "react-icons/si";
 
 // Font Awesome (general tech)
@@ -53,8 +64,10 @@ import {
   FaChartLine,  // Matplotlib
   FaWaveSquare, // Seaborn
   FaChartBar,   // Tableau
-  FaChartArea   // ggplot2
-  
+  FaChartArea,  // ggplot2
+  FaRobot,      // Cursor AI / AI-assisted dev
+  FaMicrosoft, // Azure
+  FaPlug       // MCP Server
 } from "react-icons/fa";
 
 /** Map JSON `iconKey` -> actual React icon component */
@@ -80,6 +93,17 @@ export const iconMap: Record<string, ElementType> = {
   SiMongodb,
   SiFastapi,
   SiScikitlearn,
+  SiApacheairflow,
+  SiApachespark,
+  SiKubernetes,
+  SiClaude,
+  SiTerraform,
+  SiSpringboot,
+  SiApachekafka,
+  SiDatabricks,
+  SiPrometheus,
+  SiGrafana,
+  SiGithubactions,
 
   // Font Awesome
   FaJava,
@@ -109,7 +133,10 @@ export const iconMap: Record<string, ElementType> = {
   FaChartLine,  // Matplotlib
   FaWaveSquare, // Seaborn
   FaChartBar,   // Tableau
-  FaChartArea   // ggplot2
+  FaChartArea,  // ggplot2
+  FaRobot,      // Cursor AI
+  FaMicrosoft,  // Azure
+  FaPlug        // MCP Server
 };
 
 /** Optional: color accents per icon (Tailwind classes). Leave empty or tweak. */
@@ -146,8 +173,21 @@ export const iconColor: Record<string, string> = {
   FaDatabase: "text-amber-600",
   SiMysql: "text-sky-600",
   FaLayerGroup: "text-teal-600",
-  SiIbm: "text-blue-600",
-  FaShapes: "text-violet-600",   
+  FaShapes: "text-violet-600",
+  SiApacheairflow: "text-red-500",
+  SiApachespark: "text-orange-600",
+  SiKubernetes: "text-blue-600",
+  SiClaude: "text-orange-400",
+  SiTerraform: "text-purple-600",
+  SiSpringboot: "text-green-600",
+  SiApachekafka: "text-white",
+  SiDatabricks: "text-red-500",
+  SiPrometheus: "text-amber-600",
+  SiGrafana: "text-orange-500",
+  SiGithubactions: "text-white",
+  FaMicrosoft: "text-blue-600",
+  FaPlug: "text-amber-500",
+  FaRobot: "text-slate-400",   
   SiFastapi: "text-emerald-600",
   FaTheaterMasks: "text-lime-600",
   FaBitbucket: "text-blue-700", // Changed from text-blue-700 (Bitbucket often has black elements)

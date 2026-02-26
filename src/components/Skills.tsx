@@ -67,12 +67,12 @@ export default function Skills() {
               <h3 className="text-xl font-semibold text-indigo-400 mb-1">
                 {cat.title}
               </h3>
-              <div className="flex flex-wrap gap-4">
+              <div className="grid grid-cols-2 sm:grid-cols-3 gap-x-4 gap-y-5">
                 {cat.items.map((skill) => {
                   const IconComponent = skill.iconKey ? iconMap[skill.iconKey] : null;
 
                   return (
-                    <div key={skill.name} className="flex flex-col items-center min-w-[70px]">
+                    <div key={skill.name} className="flex flex-col items-center justify-center">
                       {IconComponent ? (
                         <IconComponent
                           size={32}
