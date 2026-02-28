@@ -1,6 +1,28 @@
 [
   {
     "id": "1",
+    "title": "Serverless Cafe",
+    "description": "Full-stack serverless coffee shop app with React frontend on CloudFront, API Gateway–backed Lambda functions, DynamoDB persistence, and Cognito authentication for secure, pay-per-use inventory management.",
+    "tags": ["AWS Lambda", "API Gateway", "DynamoDB", "AWS Cognito", "Node.js"],
+    "githubLink": "https://github.com/YashKeswani9/Serverless-Cafe",
+    "liveUrl": "https://d2m5qnl9omftud.cloudfront.net/"
+  },
+  {
+    "id": "2",
+    "title": "YouTube Sentiment Analysis with MLOps & AWS CI/CD",
+    "description": "End-to-end YouTube comment sentiment model with DVC pipelines, Flask prediction API, Docker containerization, and automated deploy to AWS (ECR → EC2) via GitHub Actions; includes Chrome extension for in-browser use.",
+    "tags": ["Mlflow", "DVC", "Flask", "GitHub Actions", "AWS"],
+    "githubLink": "https://github.com/YashKeswani9/MLOps"
+  },
+  {
+    "id": "3",
+    "title": "Azure End-to-End Data Engineering Pipeline",
+    "description": "Modern data pipeline ingesting on-prem SQL into Azure Data Lake Gen2 following medallion architecture, transforming with Databricks, loading into Synapse Analytics, and visualizing in Power BI, with Key Vault and Entra ID for security and RBAC.",
+    "tags": ["Azure Data Factory", "Azure Databricks", "Azure Data Lake Gen2", "Azure Synapse Analytics", "Power BI"],
+    "githubLink": "https://github.com/YashKeswani9/Azure-Data-Engineering-endtoend-Project"
+  },
+  {
+    "id": "4",
     "title": "Condense.ai",
     "description": "AI-powered SaaS platform utilizing LLMs to summarize PDFs and deliver visually engaging, reel-like summaries for users.",
     "tags": ["LLMs", "LangChain", "TypeScript", "Next.js", "Tailwind CSS", "Stripe"],
@@ -8,21 +30,21 @@
     "liveUrl": "https://condense-ai.vercel.app"
   },
   {
-    "id": "2",
+    "id": "5",
     "title": "HealthBuddy: Bilingual RAG Healthcare Chatbot",
     "description": "Bilingual healthcare chatbot leveraging Rasa framework with RAG for medical assistance and consultations in English as well as French.",
     "tags": ["Rasa", "RAG", "NLP", "ML", "Python"],
     "githubLink": "https://github.com/YashKeswani9/Bilingual_HealthBuddy"
   },
   {
-    "id": "3",
+    "id": "6",
     "title": "Duplicate Bug Report Detection using BERT & ELECTRA",
     "description": "NLP pipeline using BERT & ELECTRA transformers for duplicate bug report detection with advanced preprocessing & model fine-tuning.",
     "tags": ["HuggingFace Transformers", "PyTorch", "NLP", "Python"],
     "githubLink": "https://github.com/YashKeswani9/Duplicate-Bug-Report-Detection-Using-BERT-and-ELECTRA"
   },
   {
-    "id": "4",
+    "id": "7",
     "title": "Android Malware Detection via Heuristic Feature Selection",
     "description": "Machine learning-based Android malware detection system using heuristic feature selection techniques and advanced classification algorithms to identify malicious applications with optimized feature engineering.",
     "tags": ["ML", "Feature Engineering", "sckit-learn", "Python"],
